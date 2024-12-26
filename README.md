@@ -31,9 +31,6 @@ Then on 2011, start touching Nodejs for backend server\
 on 2015, i tried to explore manufacture company, and working with ionic, angular, and android programming.\
 on 2019, i lead 15 people for POS app and F&B digital product, using React Native, reactjs, Mongodb, AWS appsync, AWS EC2, and AWS S3.
 
-Feel free to reach out to me at:
-< yudaferry04 >< @ >< gmail.com >
-
 
 
 ---
