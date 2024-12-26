@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Yuda.
+My name is Yuda.\
 I'm a Software Architect and Team lead Engineer since 2011. 
 
 I specialize in Architecting and Implementing real-time offline first architecture.
