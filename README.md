@@ -23,9 +23,6 @@ I specialize in Architecting and Implementing real-time offline first architectu
 Since 2019, I've been lucky enough to manage, mentor, and guide junior and experienced engineers.\
 In recent years, I've focused on using Flutter and Amazon Web Services to build cross platform real time offline first app, using Graphql and RXDB. 
 
-Born and raised in Surabaya, Indonesia. 💖\
-Received my bachelor's degree on Informatics at UPN "veteran", Surabaya on 2011.
-
 I started my programming journey in 2010 by learning PHP on my first job.\
 Then on 2011, start touching Nodejs for backend server\
 on 2015, i tried to explore manufacture company, and working with ionic, angular, and android programming.\
