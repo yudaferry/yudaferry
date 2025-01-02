@@ -1,5 +1,8 @@
+---
 
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=1000&duration=3000&width=900&color=ff9430&size=30&center=true&lines=Hi,+this+is+Yuda;Thank+you+for+accessing+my+profile+😁)](https://git.io/typing-svg)
+
+---
 
 <!--
 **yudaferry/yudaferry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
